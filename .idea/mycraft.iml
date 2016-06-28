@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://C:/xampp/phpMyAdmin/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/composer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/doctrine/inflector" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/doctrine/instantiator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/guzzle/guzzle" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/console" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/contracts" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/filesystem" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/support" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/nesbot/carbon" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/paragonie/random_compat" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpspec/prophecy" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-text-template" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-timer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-token-stream" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit-selenium" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/psr/log" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/satooshi/php-coveralls" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/comparator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/diff" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/environment" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/exporter" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/global-state" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/recursion-context" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/version" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/squizlabs/php_codesniffer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/class-loader" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/config" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/console" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/event-dispatcher" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/filesystem" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/finder" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/stopwatch" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/translation" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/yaml" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/xampp/phpMyAdmin/vendor/barryvdh/laravel-ide-helper" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/composer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/doctrine/inflector" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/doctrine/instantiator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/guzzle/guzzle" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/console" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/contracts" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/filesystem" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/illuminate/support" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/nesbot/carbon" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/paragonie/random_compat" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpspec/prophecy" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-text-template" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-timer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/php-token-stream" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/phpunit/phpunit-selenium" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/psr/log" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/satooshi/php-coveralls" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/comparator" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/diff" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/environment" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/exporter" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/global-state" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/recursion-context" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/sebastian/version" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/squizlabs/php_codesniffer" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/class-loader" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/config" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/console" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/event-dispatcher" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/filesystem" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/finder" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/stopwatch" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/translation" />
+          <root url="file://C:/xampp/phpMyAdmin/vendor/symfony/yaml" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
