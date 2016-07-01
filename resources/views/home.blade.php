@@ -9,11 +9,6 @@
 
                 <div class="panel-body">
                     You are logged in!
-
-                    @role('owner')
-                        <li><a href="{{ url('/admin/user') }}">Manage Users</a></li>
-                    @endrole
-                    <li><a href="{{ url('/admin/post') }}">Manage Posts</a></li>
                 </div>
             </div>
         </div>

@@ -11,6 +11,9 @@
                         {{ csrf_field() }}
 
                         <div class="form-group{{ $errors->has('name') ? ' has-error' : '' }}">
+                            @if (count($errors) > 0)
+
+                            @endif
                             <label for="name" class="col-md-4 control-label">Name</label>
 
                             <div class="col-md-6">
@@ -71,6 +74,9 @@
                                 <button type="submit" class="btn btn-primary">
                                     <i class="fa fa-btn fa-user"></i> Register
                                 </button>
+                                <a href="{{ url('/login/facebook') }}"><div class="btn btn-primary">
+                                    <i class="fa fa-btn fa-facebook"></i> Facebook Login
+                                </div></a>
                             </div>
                         </div>
                     </form>

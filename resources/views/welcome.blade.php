@@ -1,11 +1,22 @@
-@extends('layouts.master')
+@extends('layouts.app')
 
 @section('content')
 <div class="container">
-    <div class="content">
-        <div class="panel-heading">Welcome</div>
-        <div class="panel-body">
-            Your Application's Landing Page.
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="panel panel-default">
+                <div class="panel-heading">Welcome</div>
+
+                <div class="panel-body">
+                    Your Application's Landing Page.
+                    @if(Auth::check())
+                    @role('owner')
+                    <li>Edit Profile</li>
+                    @endrole
+                    <li>Post</li>
+                    @endif
+                </div>
+            </div>
         </div>
     </div>
 </div>
